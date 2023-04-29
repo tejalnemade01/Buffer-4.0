@@ -423,9 +423,13 @@ System.out.println(" Quantity to remove ?");
 int q1=sc.nextInt();
 obj.deleteFromCart(y4+29, q1);
 obj.viewCart();
-break;}
-}while(s!=0);
 break;
-}}while(n!=0);
+}
+}
+    while(s!=0);
+break;
+}
+}while(n!=0);
 obj.printCartBill();
-}}
+}
+}
