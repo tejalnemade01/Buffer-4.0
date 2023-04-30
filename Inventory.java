@@ -295,7 +295,7 @@ Product LaptopBag = new Product(35, "Laptop-Bag", 2199);
 obj.addProduct(LaptopBag);
 int n;
 do {
-System.out.println("1.FASHION \t 2.ELECTRONICS\t 3.GLOSSERY \t 4.BEAUTY PRODUCTS \t 5.BAGS & LUGGAGES");
+System.out.println("1.FASHION \t 2.ELECTRONICS\t 3.GROCERY \t 4.BEAUTY PRODUCTS \t 5.BAGS & LUGGAGES");
 System.out.println("Enter your choice");
 n=sc.nextInt();
 int s;
