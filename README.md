@@ -1,16 +1,13 @@
 # Buffer-4.0
-Buffer is a Data Structures and Algorithms Project series, in which students can participate as mentees in teams of 3-4 people. 
-This year the themes on which students can create a project are-
 
-1. Healthcare
-2. Digital Society
-3. Open Innovation
-4. Custom data structure to store data
+This is an Inventory System for an online store which comes under DIGITAL SOCIETY .
+This is a Java program that allows users to add products to the inventory, search for products, delete products, add products to a cart, view the cart, purchase the items in the cart, and remove items from the cart.
 
-This repository is created for all the teams to be able to upload their final project source code for the same. 
+The program uses a binary search tree to store the products in the inventory, and a hash map to store the items in the cart. The Product class defines the properties of a product, such as its ID, name, and price, and the TreeNode class is used to represent the nodes in the binary search tree.
 
-While submitting, note that: 
+Team Members :
 
-Each folder should have the name of the team and inside a readme file with team member details, (name, year, branch) and their theme. The readme file should also contain the link to their presentation as well as the drive link where all the three report documents would be stored. 
-
-Happy Coding :)
+Tejal Nemade (SY-IT)
+Purva Patil (SY-IT)
+Shweta Patil (SY-IT)
+Mansi Satpute (SY-IT)
